@@ -1,4 +1,4 @@
-@media (min-width:620px) and (max-width: 1000px) {
+@media (min-width:450px) and (max-width: 1000px) {
 
     .container {
         display: grid;
